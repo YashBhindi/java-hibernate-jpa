@@ -22,7 +22,6 @@ java -cp target/hibernate-nativeapiemo-1.0-SNAPSHOT.jar \com.hibernate.nativeapi
 ```
 
 For JPA
-```
 ```bash
  java -cp  target/java-jpa-demo-1.0-SNAPSHOT.jar \com.j.java.jpa.dava.jpa.demo.driver.Driver
 ```
