@@ -1,2 +1,7 @@
-/target/
-dependency-reduced-pom.xml
+Excercise-1-hibernate-native/target/
+Excercise-1-hibernate-native/dependency-reduced-pom.xml
+Excercise-2-3-simple-java-jpa/target/
+Excercise-2-3-simple-java-jpa/dependency-reduced-pom.xml
+Excercise-4-OneToOneMap/target/
+Excercise-4-OneToOneMap/dependency-reduced-pom.xml
+
